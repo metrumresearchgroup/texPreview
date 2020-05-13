@@ -2,7 +2,7 @@ Type: Package
 Package: texPreview
 Title: Compile and Preview Snippets of 'LaTeX'
 Version: 1.4.5
-Date: 2020-02-14
+Date: 2020-05-13
 Authors@R: 
     c(person(given = "Jonathan",
              family = "Sidi",
@@ -56,4 +56,4 @@ RdMacros:
 LazyData: false
 NeedsCompilation: no
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.0.2
+RoxygenNote: 7.1.0
